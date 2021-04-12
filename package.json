@@ -10,7 +10,7 @@
     "test": "test"
   },
   "scripts": {
-    "start": "node server/index.js",
+    "start": "node server",
     "test": "lab -a @hapi/code -I \"__core-js_shared__,CSS,regeneratorRuntime,core\" -L",
     "lint": "eslint ."
   },

@@ -32,6 +32,7 @@ grace au conteneur docker que vous pouvez lancer avec la commande suivante :
 - DB_USER=user
 - DB_PASSWORD=hapi
 - DB_DATABASE=user
+- DB_PORT=3307
 
 # Serveur
 
@@ -49,7 +50,7 @@ nodemon permet de relancer automatiquement le serveur dès qu’un fichier est m
 
 L’API tournera sur http://localhost:3000 🚀
 
-#📜  Endpoints API
+# 📜  Endpoints API
 
 - POST /users Inscription (avec envoi d'email de bienvenue)
 - POST /users/login Connexion et récupération d'un token

@@ -9,11 +9,7 @@ Un compte sur Ethereal pour tester les emails
 
 ## 2️⃣ Cloner le projet
 
-bash
-Copier
-Modifier
-git clone https://github.com/votre-utilisateur/votre-repo.git
-cd votre-repo
+    git clone https://github.com/delmat238/iut-project
 
 ## 3️⃣ Installer les dépendances
 
